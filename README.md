@@ -22,3 +22,6 @@ create a .env file and add this: {
   }
 
 When running the app, use "npm run dev" on both backend and frontend folders. MUST RUN THE COMMAND ON THE BACKEND FIRST
+
+Documentation link:
+https://docs.google.com/document/d/10GkjLBc9HRz4gO_H4btnQUgfmsWuuwADJuPLGvkegXU/edit?usp=sharing
